@@ -1,0 +1,14 @@
+.center{
+    text-align: center;
+}
+img{
+    transition: all 1s;
+    padding-right: 30px;
+}
+img:hover{
+    cursor: pointer;
+    transform: scale(1.2);
+}
+.time{
+    font-weight: bold;
+}
